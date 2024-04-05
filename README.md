@@ -1,4 +1,4 @@
-> [TIP!]
+> [!TIP]
 > Read this first!
 
 # NINA'S SQL PORTFOLIO
